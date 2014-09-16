@@ -1,4 +1,6 @@
 git-Exercise
 ============
 
-Getting better hang of git
+Learning more advanced functionalities of GitHub. 
+
+
